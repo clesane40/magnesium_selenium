@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="31359" started-at="2016-06-14T12:33:39Z" finished-at="2016-06-14T12:34:11Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31359" started-at="2016-06-14T12:33:39Z" finished-at="2016-06-14T12:34:11Z">
+      <class name="com.riverbed.webdriver.screenshotonfail">
+        <test-method status="PASS" signature="riverbedsupport()[pri:0, instance:com.riverbed.webdriver.screenshotonfail@512ddf17]" name="riverbedsupport" duration-ms="22680" started-at="2016-06-14T08:33:39Z" finished-at="2016-06-14T08:34:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- riverbedsupport -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.riverbed.webdriver.screenshotonfail@512ddf17]" name="tearDown" is-config="true" duration-ms="8669" started-at="2016-06-14T08:34:02Z" finished-at="2016-06-14T08:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=riverbedsupport status=SUCCESS method=screenshotonfail.riverbedsupport()[pri:0, instance:com.riverbed.webdriver.screenshotonfail@512ddf17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.riverbed.webdriver.screenshotonfail -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
